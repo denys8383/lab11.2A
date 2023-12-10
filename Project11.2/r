@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------
+| No |  Surname   |Course|            Speciality          |  P |  M | I  |
+--------------------------------------------------------------------------
+|  1 |       Vovk |    1 |      Mathematics and economics |  5 |  3 |  5 |
+|  2 |    Mazurok |    4 |   Physics and computer science |  5 |  3 |  3 |
+|  3 |    Ushakov |    3 |               Computer science |  4 |  4 |  5 |
+|  4 |   Kojushko |    3 |      Mathematics and economics |  5 |  5 |  5 |
+|  5 |   Zarubich |    1 |   Physics and computer science |  3 |  3 |  5 |
+|  6 |  Simonenko |    3 |               Computer science |  4 |  4 |  4 |
+|  7 |    Barchuk |    5 |      Mathematics and economics |  4 |  4 |  4 |
+|  8 |   Osadchyi |    3 |   Physics and computer science |  4 |  4 |  4 |
+|  9 |     Kalyna |    3 |               Computer science |  3 |  4 |  5 |
+--------------------------------------------------------------------------
+1. Number of students without threes: 5
+2. Percentage of students with an average grade below 4: 22.22%

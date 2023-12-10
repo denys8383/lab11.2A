@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------
+| No |  Surname   |Course|            Speciality          |  P |  M | I  |
+--------------------------------------------------------------------------
+|  1 |       Vovk |    1 |      Mathematics and economics |  4 |  4 |  4 |
+|  2 |    Mazurok |    4 |   Physics and computer science |  3 |  5 |  4 |
+|  3 |    Ushakov |    4 |               Computer science |  5 |  5 |  4 |
+|  4 |   Kojushko |    1 |      Mathematics and economics |  5 |  3 |  5 |
+|  5 |   Zarubich |    1 |   Physics and computer science |  4 |  4 |  5 |
+|  6 |  Simonenko |    3 |               Computer science |  3 |  4 |  3 |
+|  7 |    Barchuk |    1 |      Mathematics and economics |  5 |  3 |  4 |
+|  8 |   Osadchyi |    1 |   Physics and computer science |  5 |  3 |  4 |
+|  9 |     Kalyna |    2 |               Computer science |  3 |  5 |  4 |
+| 10 |       Vovk |    4 |      Mathematics and economics |  5 |  5 |  5 |
+| 11 |    Mazurok |    2 |   Physics and computer science |  3 |  5 |  4 |
+| 12 |    Ushakov |    4 |               Computer science |  5 |  3 |  4 |
+| 13 |   Kojushko |    4 |      Mathematics and economics |  5 |  5 |  4 |
+| 14 |   Zarubich |    2 |   Physics and computer science |  4 |  4 |  4 |
+| 15 |  Simonenko |    1 |               Computer science |  5 |  3 |  5 |
+| 16 |    Barchuk |    4 |      Mathematics and economics |  3 |  4 |  5 |
+| 17 |   Osadchyi |    5 |   Physics and computer science |  3 |  5 |  5 |
+| 18 |     Kalyna |    5 |               Computer science |  4 |  3 |  5 |
+| 19 |       Vovk |    3 |      Mathematics and economics |  3 |  3 |  3 |
+| 20 |    Mazurok |    1 |   Physics and computer science |  4 |  5 |  5 |
+--------------------------------------------------------------------------
+1. Number of students without threes: 7
+2. Percentage of students with an average grade below 4: 10.00%
